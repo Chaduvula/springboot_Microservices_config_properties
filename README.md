@@ -1,0 +1,2 @@
+# springboot_Microservices_config_properties
+spring boot application.properties file configuration 
